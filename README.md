@@ -52,4 +52,4 @@ Contribuindo com soluções eficientes e escaláveis.
 
 Email: raymundo.israelfelipe@gmail.com
 LinkedIn: https://www.linkedin.com/in/israel-raymundo-94466b402/ 
-GitHub: github.com/israel-raymundo
+
